@@ -1,1 +1,5 @@
 # doc utiliser pour les dev
+function damien():
+	some stuff
+	return 0
+
